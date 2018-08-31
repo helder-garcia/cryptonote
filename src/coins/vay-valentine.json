@@ -1,8 +1,0 @@
-{
-    "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2946937.0",
-    "coin": "VAY",
-    "diffTarget": 120,
-    "name": "Valentine",
-    "repo": "https://github.com/valentinecoin/cryptonote"
-}

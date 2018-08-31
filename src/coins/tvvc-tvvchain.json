@@ -1,8 +1,0 @@
-{
-    "algorithm": "CryptoNight Lite v1",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4411116.0",
-    "coin": "TVVC",
-    "diffTarget": 60,
-    "name": "TVVChain",
-    "repo": "https://github.com/Tvvchainproject/Tvvchain"
-}

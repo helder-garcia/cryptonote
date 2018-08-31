@@ -1,8 +1,0 @@
-{
-    "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4245620",
-    "coin": "MACS",
-    "diffTarget": 60,
-    "name": "MacsCoin",
-    "repo": null
-}

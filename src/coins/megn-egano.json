@@ -1,8 +1,0 @@
-{
-    "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2705359.0",
-    "coin": "MEGN",
-    "diffTarget": 120,
-    "name": "egano",
-    "repo": null
-}

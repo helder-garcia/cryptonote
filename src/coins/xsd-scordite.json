@@ -1,8 +1,0 @@
-{
-    "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4621537.0",
-    "coin": "XSD",
-    "diffTarget": 60,
-    "name": "Scordite",
-    "repo": "https://github.com/scordite/scordite"
-}

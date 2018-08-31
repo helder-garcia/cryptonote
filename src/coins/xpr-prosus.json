@@ -1,8 +1,0 @@
-{
-    "algorithm": "CryptoNight",
-    "bitcointalkAnn": null,
-    "coin": "XPR",
-    "diffTarget": 120,
-    "name": "Prosus",
-    "repo": "https://github.com/ProsusCorp/prosus"
-}

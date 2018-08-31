@@ -1,9 +1,0 @@
-{
-    "algorithm": "CryptoNight v7",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4429386.0",
-    "coin": "RECL",
-    "diffTarget": 120,
-    "name": "ReCoal",
-    "repo": "https://github.com/ReCoal/recoal",
-    "website": "https://www.recoal.org/"
-}

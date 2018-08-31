@@ -1,8 +1,0 @@
-{
-    "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3054182.0",
-    "coin": "GMT",
-    "diffTarget": 240,
-    "name": "Gallion",
-    "repo": "https://github.com/Gallion-crypto/Gallion"
-}

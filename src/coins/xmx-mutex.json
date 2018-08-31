@@ -1,8 +1,0 @@
-{
-    "algorithm": "CryptoNight",
-    "bitcointalkAnn": null,
-    "coin": "XMX",
-    "diffTarget": 60,
-    "name": "Mutex",
-    "repo": "https://github.com/MutexProject/mutex"
-}

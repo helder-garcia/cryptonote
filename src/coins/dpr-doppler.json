@@ -1,8 +1,0 @@
-{
-    "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=4553663",
-    "coin": "DPR",
-    "diffTarget": 60,
-    "name": "Doppler",
-    "repo": "https://github.com/dopplerX"
-}

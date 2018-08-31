@@ -1,8 +1,0 @@
-{
-    "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3194150.0",
-    "coin": "KGH",
-    "diffTarget": 120,
-    "name": "Kwagsh",
-    "repo": "https://github.com/kwash-dev/kwagsh"
-}

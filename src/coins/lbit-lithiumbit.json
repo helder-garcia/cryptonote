@@ -1,8 +1,0 @@
-{
-    "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3318012",
-    "coin": "LBIT",
-    "diffTarget": 180,
-    "name": "LithiumBit",
-    "repo": "http://www.github.com/LithiumBit"
-}
