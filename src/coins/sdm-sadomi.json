@@ -1,0 +1,11 @@
+{
+    "algorithm": "CryptoNight v7",
+    "coin": "SDM",
+    "diffTarget": 120,
+    "forkedFrom": "xmr-monero",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/sdm-icon.png",
+    "links": {
+        "repo": "https://github.com/sadomi"
+    },
+    "name": "Sadomi"
+}

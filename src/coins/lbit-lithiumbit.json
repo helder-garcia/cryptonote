@@ -1,0 +1,15 @@
+{
+    "algorithm": "CryptoNight",
+    "coin": "LBIT",
+    "diffTarget": 180,
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/lbit-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3318012",
+        "facebook": "http://www.facebook.com/LithiumBit",
+        "repo": "http://www.github.com/LithiumBit",
+        "twitter": "http://www.twitter.com/LithiumBit",
+        "website": "http://www.lithiumbit.com/"
+    },
+    "name": "LithiumBit"
+}

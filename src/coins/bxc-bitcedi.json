@@ -1,0 +1,11 @@
+{
+    "algorithm": "CryptoNight",
+    "coin": "BXC",
+    "forkedFrom": "xdn-digitalnote",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/bxc-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=1474935.0",
+        "repo": "https://github.com/lulworm/bitcedi"
+    },
+    "name": "Bitcedi"
+}

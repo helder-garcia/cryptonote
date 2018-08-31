@@ -1,0 +1,16 @@
+{
+    "algorithm": "CryptoNight v7",
+    "coin": "SUP",
+    "diffTarget": 120,
+    "forkedFrom": "xmr-monero",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/sup-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2088169.0",
+        "facebook": "https://www.facebook.com/TheSuperiorCoin",
+        "repo": "https://github.com/TheSuperiorCoin/TheSuperiorCoin",
+        "twitter": "https://twitter.com/superiorcoins",
+        "website": "http://superior-coin.com/"
+    },
+    "name": "Superior Coin",
+    "startDate": "2017-07-01"
+}

@@ -1,0 +1,15 @@
+{
+    "algorithm": "CryptoNight",
+    "coin": "Flurbo",
+    "diffTarget": 120,
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/flb-icon.png",
+    "forkedFrom": "xmr-monero",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3119326",
+        "discord": "https://discord.gg/D4RqCw3",
+        "repo": "https://github.com/iMrPoopybutthole/flurbo",
+        "twitter": "https://twitter.com/GetFlurbo",
+        "website": "http://flurbo.cc/"
+    },
+    "name": "Flurbo"
+}
