@@ -1,8 +1,12 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2986921.0",
     "coin": "LCN",
     "diffTarget": 140,
-    "name": "Loncoin",
-    "repo": "https://github.com/Lennaft/Loncoin"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/lcn-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2986921.0",
+        "repo": "https://github.com/Lennaft/Loncoin"
+    },
+    "name": "Loncoin"
 }

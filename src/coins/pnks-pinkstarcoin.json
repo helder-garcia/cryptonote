@@ -1,8 +1,0 @@
-{
-    "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2723196.0",
-    "coin": "PNKS",
-    "diffTarget": 60,
-    "name": "Pinkstarcoin",
-    "repo": "https://github.com/Jachi84/pinkstarcoin"
-}

@@ -1,8 +1,14 @@
 {
     "algorithm": "CryptoNight",
-    "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3334828.0",
     "coin": "XELD",
     "diffTarget": 120,
-    "name": "Eldorado",
-    "repo": "https://github.com/eldoradocash/eldorado-node"
+    "forkedFrom": "bcn-bytecoin",
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/xeld-icon.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=3334828.0",
+        "discord": "https://discord.gg/vPHMTvK",
+        "repo": "https://github.com/eldoradocash/eldorado-node",
+        "twitter": "https://twitter.com/EldoradoCashCom"
+    },
+    "name": "Eldorado"
 }
