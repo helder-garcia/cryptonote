@@ -1,7 +1,7 @@
 {
     "coin": "FXCBit",
     "forkedFrom": "exchanges",
-    "icon": "https://raw.githubusercontent.com/helder-garcia/nb51-f/master/dist/images/logo-FXCBit.png",
+    "icon": "https://raw.githubusercontent.com/helder-garcia/nb51-f/master/dist/images/logo-FXCBit.jpg",
     "name": "FXCBit",
     "webiste":"https://fxcbit.com/"
 }
