@@ -1,0 +1,7 @@
+{
+    "coin": "Crex24",
+    "forkedFrom": "exchanges",
+    "icon": "https://raw.githubusercontent.com/helder-garcia/nb51-f/master/dist/images/logo-crex24.png",
+    "name": "Crex24",
+    "webiste":"https://crex24.com/pt/exchange/NBR-BTC"
+}
